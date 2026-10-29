@@ -1,0 +1,6 @@
+scope: product
+name: SIM LM
+milestones:
+  - version: v1.0.0
+    features:
+      - https://github.com/poesis-cloud/sim-lm/issues/1
