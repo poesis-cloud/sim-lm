@@ -1,6 +1,6 @@
-# sim-lm
+# SIM LM
 
-SIM language model (PoC).
+The language model of **SIM (Systemic Intelligence Model)**, a solution of the Poesis platform.
 
 <!-- roadmap:start -->
 ## Roadmap
