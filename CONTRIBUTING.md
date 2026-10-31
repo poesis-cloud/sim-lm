@@ -62,7 +62,7 @@ By submitting a contribution, you agree that:
 
 ## Licensing of contributions
 
-Inbound contributions are licensed under this repository's `LICENSE`, plus the relicensing grant above.
+Inbound contributions are licensed under this repository's `LICENSE` (BUSL-1.1) and, for DCO purposes, also under the open-source license **AGPL-3.0-or-later** (the Change License), which is the "open source license indicated in the file" referred to by the DCO above. The relicensing grant above applies in addition.
 
 ## Trademarks
 
